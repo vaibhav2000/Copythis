@@ -1,0 +1,33 @@
+
+.navbar{
+    border-radius: 0;
+    border: 0px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+    font-family: monospace;
+}
+
+
+#uppertext{
+     font-family: monospace;
+     color: white;
+    }
+
+.upperhold{
+
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.upperhold>p{
+    
+     font-size: 10vw;
+     text-align: left;
+     font-family: monospace;
+     margin: 10%;
+}
